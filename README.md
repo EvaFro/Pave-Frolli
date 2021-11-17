@@ -29,3 +29,5 @@ I used code sandbox since I am on my personal comuputer please feel free to look
 
 * note you will have to login with github
 
+# Overview
+You watch my overviw on Loom here: https://www.loom.com/share/0773130c646b485ab48e06e9886c832b
