@@ -23,3 +23,9 @@ Unfotunely it took me a while to figure out how to load a CSV file into my app. 
 * add some colors and visual affects to make it more user friendly
 * refactor my utils to be easier to read, consise, and efficent
 * add utils to be able to sort by different demagraphics
+
+# Build
+I used code sandbox since I am on my personal comuputer please feel free to look go there to render it: https://codesandbox.io/embed/github/EvaFro/Pave-Frolli/tree/main/?fontsize=14&hidenavigation=1&theme=dark
+
+* note you will have to login with github
+
